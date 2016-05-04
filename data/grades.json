@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"studentId" : 1,
+		"course": "web services",
+		"grade": 70,
+		"year":2015
+	},
+	{
+		"id": 2,
+		"studentId" : 4,
+		"course": "networking",
+		"grade": 74,
+		"year":2016
+	},
+	{
+		"id": 3,
+		"studentId" : 2,
+		"course": "web services",
+		"grade": 90,
+		"year":2015
+	}
+]

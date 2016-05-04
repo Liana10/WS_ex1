@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "liel noyman",
+		"birthday": "2/3/1988"
+	},
+	{
+		"id": 2,
+		"name": "shlomi choen",
+		"birthday": "11/3/1986"
+	},
+	{
+		"id": 3,
+		"name": "moshe levi",
+		"birthday": "2/7/1991"
+	},
+	{
+		"id": 4,
+		"name": "david sherman",
+		"birthday": "1/1/1988"
+	}
+]
