@@ -5,7 +5,7 @@ var url = require('url');
 var students = require('./students_ws'); 
 
 
-var port = 3000;
+var port = process.env.PORT || 3000;
 
 //index page - http://localhost:3000
 app.get('/', function (req, res) {
